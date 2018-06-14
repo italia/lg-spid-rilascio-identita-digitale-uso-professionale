@@ -26,4 +26,4 @@ b) assicurarsi che la richiesta di rilascio provenga e le credenziali
    soggetto giuridico che se ne è dotato.
 
 .. discourse::
-   :topic_identifier: 3662
+   :topic_identifier: 3668
