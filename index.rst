@@ -18,8 +18,3 @@ Le presenti linee guida normano le modalità di rilascio delle identità digital
    :maxdepth: 1
 
    contents/premessa.rst
-   contents/articolo-1.rst
-   contents/articolo-2.rst
-   contents/articolo-3.rst
-   contents/articolo-4.rst
-   contents/articolo-5.rst

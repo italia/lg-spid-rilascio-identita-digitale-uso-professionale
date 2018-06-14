@@ -1,5 +1,5 @@
-LINEE GUIDA PER IL RILASCIO DELL’IDENTITÀ DIGITALE PER USO PROFESSIONALE
-========================================================================
+Linee Guida SPID per il rilascio dell'Identità Digitale per uso professionale
+=============================================================================
 
 **VISTI** gli articoli 19 (Istituzione dell’Agenzia per l’Italia
 Digitale), 21 (Organi e statuto), 22 (Soppressione di DigitPA e
