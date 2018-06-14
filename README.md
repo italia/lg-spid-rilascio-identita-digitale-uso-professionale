@@ -4,7 +4,7 @@ Le presenti linee guida normano le modalità di rilascio delle identità digital
 
 ## Link al documento e consultazione
 
-Link al documento Docs Italia: https://url
+Link al documento Docs Italia: https://lg-spid-rilascio-identita-digitale-uso-professionale.readthedocs.io
 
 Link per commenti Forum Italia: https://forum.italia.it/c/documenti-in-consultazione/linee-guida-spid-rilascio-dellidentita-digitale
 
