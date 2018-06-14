@@ -1,7 +1,5 @@
-Articolo 4
-----------
-
-**Attributo uso professionale**
+Articolo 4: Attributo uso professionale
+---------------------------------------
 
 1. L’\ *identità* *digitale uso professionale* contiene l’attributo
    *identityPurpose* con codice *P*.

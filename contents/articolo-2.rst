@@ -1,7 +1,5 @@
-Articolo 2
-----------
-
-**Definizioni**
+Articolo 2: Definizioni
+-----------------------
 
 1. Ai fini del presente provvedimento si intende per:
 

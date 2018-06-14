@@ -1,7 +1,5 @@
-Articolo 5
-----------
-
-**Utenza master**
+Articolo 5: Utenza master
+-------------------------
 
 1. Al fine di consentire ai soggetti giuridici di poter gestire
    attraverso un servizio in rete le *identità digitale uso

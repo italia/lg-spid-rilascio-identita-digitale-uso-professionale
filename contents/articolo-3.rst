@@ -1,7 +1,5 @@
-Articolo 3
-----------
-
-**Rapporti fra le parti**
+Articolo 3: Rapporti fra le parti
+---------------------------------
 
 1. La regolazione del rapporto fra gestore di identità digitali e il
    soggetto che richiede *identità digitale uso professionale* è oggetto

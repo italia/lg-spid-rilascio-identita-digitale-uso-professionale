@@ -1,9 +1,5 @@
-Articolo 1
-----------
-
-**Ambito di applicazione**
-
-Enumerated lists:
+Articolo 1: Ambito di applicazione
+----------------------------------
 
 1. Le presenti linee guida normano le modalità di rilascio delle
    identità digitali per uso professionale cui i gestori di identità
