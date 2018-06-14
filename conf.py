@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Linee Guida SPID - Rilascio dell'identità digitale per uso professionale"
+settings_project_name = "Linee Guida SPID - Rilascio dell'identita' digitale per uso professionale"
 settings_copyright_copyleft = "Agenzia per l'Italia Digitale"
 settings_editor_name = "Agenzia per l'Italia Digitale"
 settings_doc_version = 'Bozza in consultazione'
