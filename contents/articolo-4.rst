@@ -1,6 +1,3 @@
-LINEE GUIDA PER IL RILASCIO DELL’IDENTITÀ DIGITALE PER USO PROFESSIONALE
-========================================================================
-
 Articolo 4
 ----------
 
