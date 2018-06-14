@@ -15,11 +15,11 @@ Le presenti linee guida normano le modalità di rilascio delle identità digital
 
 .. toctree::
    :caption: Indice dei contenuti
-   :maxdepth: 5
+   :maxdepth: 1
 
-   Premessa <contents/premessa.rst>
-   Articolo 1 <contents/articolo-1.rst>
-   Articolo 2 <contents/articolo-2.rst>
-   Articolo 3 <contents/articolo-3.rst>
-   Articolo 4 <contents/articolo-4.rst>
-   Articolo 5 <contents/articolo-5.rst>
+   contents/premessa.rst
+   contents/articolo-1.rst
+   contents/articolo-2.rst
+   contents/articolo-3.rst
+   contents/articolo-4.rst
+   contents/articolo-5.rst

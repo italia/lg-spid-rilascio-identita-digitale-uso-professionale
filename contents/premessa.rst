@@ -40,5 +40,15 @@ Conferenza unificata;
 
 sono emanate le presenti linee guida.
 
+.. toctree::
+   :caption: Indice dei contenuti
+   :maxdepth: 1
+
+   articolo-1.rst
+   articolo-2.rst
+   articolo-3.rst
+   articolo-4.rst
+   articolo-5.rst
+
 .. discourse::
    :topic_identifier: 3662

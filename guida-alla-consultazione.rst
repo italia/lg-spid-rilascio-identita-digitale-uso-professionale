@@ -50,4 +50,4 @@ Link correlati
 
 -  `https://lg-spid-rilascio-identita-digitale-uso-professionale.readthedocs.io <https://lg-spid-rilascio-identita-digitale-uso-professionale.readthedocs.io>`__
 
--  `https://forum.italia.it/c/documenti-in-consultazione/linee-guida-spid-rilascio-dellidentita-digitale <https://forum.italia.it/c/documenti-in-consultazione/linee-guida-spid-rilascio-dellidentita-digitale>`__
+-  `https://forum.italia.it/c/documenti-in-consultazione/lg-spid-rilascio-identita-digitale-uso-professionale <https://forum.italia.it/c/documenti-in-consultazione/lg-spid-rilascio-identita-digitale-uso-professionale>`__
