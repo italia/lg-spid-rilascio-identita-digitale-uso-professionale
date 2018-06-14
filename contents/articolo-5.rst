@@ -1,6 +1,8 @@
-**LINEE GUIDA PER IL RILASCIO DELL’IDENTITÀ DIGITALE PER USO PROFESSIONALE**
+LINEE GUIDA PER IL RILASCIO DELL’IDENTITÀ DIGITALE PER USO PROFESSIONALE
+========================================================================
 
-**Articolo 5**
+Articolo 5
+----------
 
 **Utenza master**
 

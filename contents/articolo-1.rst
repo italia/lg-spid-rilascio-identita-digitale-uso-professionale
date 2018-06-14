@@ -1,8 +1,12 @@
-**LINEE GUIDA PER IL RILASCIO DELL’IDENTITÀ DIGITALE PER USO PROFESSIONALE**
+LINEE GUIDA PER IL RILASCIO DELL’IDENTITÀ DIGITALE PER USO PROFESSIONALE
+========================================================================
 
-**Articolo 1**
+Articolo 1
+----------
 
 **Ambito di applicazione**
+
+Enumerated lists:
 
 1. Le presenti linee guida normano le modalità di rilascio delle
    identità digitali per uso professionale cui i gestori di identità
