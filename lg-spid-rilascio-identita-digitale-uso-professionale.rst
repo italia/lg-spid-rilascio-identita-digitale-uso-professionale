@@ -1,7 +1,5 @@
 **LINEE GUIDA PER IL RILASCIO DELL’IDENTITÀ DIGITALE PER USO PROFESSIONALE**
 
-*(Bozza per la consultazione pubblica)*
-
 **VISTI** gli articoli 19 (Istituzione dell’Agenzia per l’Italia
 Digitale), 21 (Organi e statuto), 22 (Soppressione di DigitPA e
 dell’Agenzia per la diffusione delle tecnologie per l’innovazione;
@@ -159,3 +157,6 @@ b) assicurarsi che la richiesta di rilascio provenga e le credenziali
 
 4. La responsabilità dell’uso dell’utenza master resta in capo al
    soggetto giuridico che se ne è dotato.
+
+.. discourse::
+   :topic_identifier: 3662

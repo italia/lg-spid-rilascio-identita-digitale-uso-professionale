@@ -48,6 +48,6 @@ consultazione.
 Link correlati
 --------------
 
--  `url <https://url/>`__
+-  `https://lg-spid-rilascio-identita-digitale-uso-professionale.readthedocs.io <https://lg-spid-rilascio-identita-digitale-uso-professionale.readthedocs.io>`__
 
 -  `https://forum.italia.it/c/documenti-in-consultazione/linee-guida-spid-rilascio-dellidentita-digitale <https://forum.italia.it/c/documenti-in-consultazione/linee-guida-spid-rilascio-dellidentita-digitale>`__

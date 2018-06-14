@@ -11,4 +11,5 @@ Le presenti linee guida normano le modalità di rilascio delle identità digital
 .. toctree::
    :maxdepth: 1
 
+   Guida alla consultazione <guida-alla-consultazione.rst>
    Rilascio dell'identità digitale per uso professionale <lg-spid-rilascio-identita-digitale-uso-professionale.rst>
