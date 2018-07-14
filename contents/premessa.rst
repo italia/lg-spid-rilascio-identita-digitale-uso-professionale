@@ -18,7 +18,7 @@ particolare l’articolo 71;
 
 **VISTO** il DPCM 24 ottobre 2014 recante “Definizione delle
 caratteristiche del sistema pubblico per la gestione dell’identità
-digitale di cittadini e imprese (SPID), nonché' dei tempi e delle
+digitale di cittadini e imprese (SPID), nonché dei tempi e delle
 modalità di adozione del sistema SPID da parte delle pubbliche
 amministrazioni e delle imprese.” pubblicato sulla G.U. Serie Generale
 n. 285 del 9 dicembre 2014;
@@ -29,7 +29,7 @@ di consultazione pubblica;
 **SENTITO** ai sensi dell’articolo 62, comma 8, del D.lgs. n. 179/2016,
 il Commissario straordinario per l’attuazione dell’Agenda digitale;
 
-**SENTITE** ai sensi dell’articolo 71, comma 1, del CAD le ammirazioni
+**SENTITE** ai sensi dell’articolo 71, comma 1, del CAD le amministrazioni
 competenti;
 
 **SENTITO** ai sensi dell’articolo 71, comma 1, il Garante per la
