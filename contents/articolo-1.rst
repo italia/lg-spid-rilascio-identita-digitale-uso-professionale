@@ -6,7 +6,7 @@ Articolo 1: Ambito di applicazione
    digitali del sistema SPID devono attenersi. Tali identità digitali
    sono quelle utili a provare l’appartenenza di una persona fisica
    all’organizzazione di una persona giuridica e/o la sua qualità di
-   professionista. Le identità in questione, al contrario, non sono
+   professionista. Le identità in questione, al contrario, non
    costituiscono prova dei poteri di rappresentanza di una persona
    giuridica dei quali una persona fisica è eventualmente in possesso né
    l’appartenenza di un professionista a un determinato ordine
